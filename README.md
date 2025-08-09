@@ -19,7 +19,7 @@ Recipients of the NYU Tandon Bridge Certificate demonstrate the ability to:
 * Have a firm understanding of operating systems topics related to processes, threads, thread concurrency, deadlocks, and memory management.
 * Understanding of fundamental concepts in discrete math.
 
-## Reference
+## References
 
 For more informations, please see:
 * [NYU Tandon Bridge](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)   
