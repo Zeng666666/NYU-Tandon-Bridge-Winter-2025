@@ -1,6 +1,8 @@
 # NYU Tandon Bridge Winter 2025
 
-This repository contains my work from the NYU Tandon School of Engineering Bridge Program, Winter 2025. I successfully completed the intensive program with **Distinction**.
+This repository contains my work from the **NYU Tandon School of Engineering Bridge Program, Winter 2025**, which I successfully completed with **Distinction**.
+
+I chose the **28-week** part-time track, which allowed me to complete the intensive program while working full-time. Although challenging, the experience was exciting and rewarding, and I truly enjoyed the material.
 
 ## Program Overview
 
