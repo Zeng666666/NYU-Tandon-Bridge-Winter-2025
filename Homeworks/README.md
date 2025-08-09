@@ -1,4 +1,4 @@
-# Overview
+# Assignments
 
 I chose the **28-week** part-time track, which allowed me to complete the program while working full-time. Although challenging, the experience was exciting and rewarding, and I truly enjoyed the material.
 
