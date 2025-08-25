@@ -4,13 +4,13 @@ This repository contains my work from the **NYU Tandon School of Engineering Bri
 
 I chose the **28-week** part-time track, which allowed me to complete the intensive program while working full-time. Although challenging, the experience was exciting and rewarding, and I truly enjoyed the material.
 
-## Program Overview
+## Overview
 
 The program is designed to build foundational technical skills for individuals without a technical background, preparing them to apply for select STEM graduate programs. Taught by NYU Tandon Computer Science faculty, this 100% online course covers discrete math, data structures and algorithms, and principles of operating systems.
 
 A Certificate of Distinction is awarded to students who receive a B+ or higher, while a Certificate of Completion is awarded for a grade of C or higher.
 
-## Program Objectives
+## Outcomes
 
 Recipients of the NYU Tandon Bridge Certificate demonstrate the ability to:
 * Basic understanding of how data is represented and how computers execute instructions to use and modify data in order to solve problems.
